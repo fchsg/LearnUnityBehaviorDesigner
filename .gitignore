@@ -1,0 +1,7 @@
+﻿Trunk/BehaviorDesigner/.idea
+Trunk/BehaviorDesigner/Logs
+Trunk/BehaviorDesigner/obj
+Trunk/BehaviorDesigner/Temp
+*.csproj
+Trunk/BehaviorDesigner/BehaviorDesigner.sln
+Trunk/BehaviorDesigner/Library
